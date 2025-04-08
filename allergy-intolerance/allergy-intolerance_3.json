@@ -28,7 +28,7 @@
         "coding" : [{
         "system" : "http://snomed.info/sct",
         "code" : "227037002",
-        "display" : "Peixe - dietético (substância)"
+        "display" : "Glúten"
         }],
         "text" : "Allergic to fresh fish. Tolerates canned fish"
     },
