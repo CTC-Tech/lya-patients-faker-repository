@@ -43,7 +43,7 @@
           "coding" : [{
             "system" : "http://snomed.info/sct",
             "code" : "386661006",
-            "display" : "Fever"
+            "display" : "Febre"
           }]
         },
         "bodySite" : [{
@@ -144,7 +144,7 @@
           "coding" : [{
             "system" : "http://snomed.info/sct",
             "code" : "363346000",
-            "display" : "Malignant neoplastic disease"
+            "display" : "Doença neoplásica maligna"
           }]
         },
         "bodySite" : [{

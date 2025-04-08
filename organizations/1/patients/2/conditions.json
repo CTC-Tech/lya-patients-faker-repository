@@ -36,7 +36,7 @@
           "coding" : [{
             "system" : "http://snomed.info/sct",
             "code" : "254637007",
-            "display" : "NSCLC - Non-small cell lung cancer"
+            "display" : "NSCLC - Câncer de pulmão de células não pequenas"
           }]
         },
         "bodySite" : [{
@@ -131,7 +131,7 @@
           "coding" : [{
             "system" : "http://snomed.info/sct",
             "code" : "368009",
-            "display" : "Heart valve disorder"
+            "display" : "Distúrbio da válvula cardíaca"
           }]
         },
         "bodySite" : [{
