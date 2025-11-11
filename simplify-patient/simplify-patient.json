@@ -1,0 +1,67 @@
+
+[
+  {
+      "resourceType":"Patient",
+      "id":123,
+      "metadata_external_id":null,
+      "birth":"1990-05-12",
+      "document":"00000000000",
+      "name":"Fulano da Silva",
+      "sector":"Fisioterapia",
+      "external_sector_id":"FT-100",
+      "created_at":"2025-01-30T13:00:00Z",
+      "phone_number":"+5511988884444",
+      "height":"1.75",
+      "weight":"80"
+  },
+  {
+      "resourceType":"AllergyIntolerance",
+      "tag":[
+        "FOSFATO SODICO DE PREDNISOLONA"
+      ]
+  },
+  {
+      "resourceType":"AllergyIntolerance",
+      "tag":[
+        "AMOXICILINA",
+        "DIPIRONA SÓDICA",
+        "IBUPROFENO"
+      ]
+  },
+  {
+      "resourceType":"Observation",
+      "tag":[
+        "Pressão arterial"
+      ]
+  },
+  {
+      "resourceType":"Condition",
+      "tag":[
+        "Hipertensão arterial"
+      ]
+  },
+  {
+      "resourceType":"Medication",
+      "tag":[
+        "Atorvastatina 20mg"
+      ]
+  },
+  {
+      "resourceType":"Procedure",
+      "tag":[
+        "Cirurgia de apendicectomia"
+      ]
+  },
+  {
+      "resourceType":"Encounter",
+      "tag":[
+        "Consulta ambulatorial"
+      ]
+  },
+  {
+      "resourceType":"DiagnosticReport",
+      "tag":[
+        "Hemograma completo"
+      ]
+  }
+]
