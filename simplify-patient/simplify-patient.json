@@ -2,16 +2,13 @@
 [
   {
       "resourceType":"Patient",
-      "id":123,
-      "metadata_external_id":null,
       "birth":"1990-05-12",
       "document":"00000000000",
       "name":"Fulano da Silva",
       "sector":"Fisioterapia",
       "external_sector_id":"FT-100",
-      "created_at":"2025-01-30T13:00:00Z",
       "phone_number":"+5511988884444",
-      "height":"1.75",
+      "height":"175",
       "weight":"80"
   },
   {
