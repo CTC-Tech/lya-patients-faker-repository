@@ -1,0 +1,27 @@
+[
+  {
+    "resourceType": "Patient",
+    "metadata_external_id": "2",
+    "birth": "1974-12-25",
+    "document": "578.878.680-09",
+    "name": "Paciente Teste"
+  },
+  {
+    "resourceType": "Procedure",
+    "tag": [
+      "Procedimento: Nebulização com broncodilatador",
+      "Data: 14/11/2025",
+      "Profissional responsável: Enf. Júlia S.",
+      "Duração: 15 minutos"
+    ]
+  },
+  {
+    "resourceType": "AllergyIntolerance",
+    "tag": [
+      "Clorexidina",
+      "Reação: Dermatite de contato",
+      "Gravidade: Leve",
+      "Data de início: 2024-08-22"
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+    {
+    "resourceType": "Patient",
+    "metadata_external_id": "7",
+    "birth": "1974-12-25",
+    "document": "968.491.640-07",
+    "name": "Cezar Martins",
+    "phone_number": "99999999999",
+    "weight": "86.0",
+    "height": "120"
+  },
+  {
+    "resourceType": "Condition",
+    "tag": [
+      "Diagnóstico: Asma moderada persistente",
+      "CID-10: J45.1",
+      "Início dos sintomas: 2024-05-12",
+      "Status clínico: Ativo"
+    ]
+  },
+  {
+    "resourceType": "MedicationStatement",
+    "tag": [
+      "Medicamento: Salbutamol 100 mcg",
+      "Frequência: 2 jatos a cada 6 horas",
+      "Via: Inalatória",
+      "Última administração: 14/11/2025 13:20"
+    ]
+  },
+  {
+    "resourceType": "Immunization",
+    "tag": [
+      "Vacina: Influenza trivalente",
+      "Data da aplicação: 2025-04-03",
+      "Lote: FLU-7834",
+      "Status: Administrada"
+    ]
+  }
+]
