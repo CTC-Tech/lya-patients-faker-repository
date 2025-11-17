@@ -3,7 +3,7 @@
     "resourceType": "Patient",
     "metadata_external_id": "5",
     "document": "052.163.450-43",
-    "name": "Paciente teste 5"
+    "name": "Paciente Integração 3"
   },
   {
     "resourceType": "AllergyIntolerance",
