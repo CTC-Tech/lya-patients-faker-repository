@@ -3,13 +3,8 @@
     "resourceType": "Patient",
     "metadata_external_id": "68",
     "birth": "1952-04-04",
-    "document": null,
-    "document_type": null,
     "name": "Paciente Integração 5",
-    "phone_number": "11984088032",
-    "weight": null,
-    "height": null,
-    "uuid": "60212214-87f9-444c-8acf-6ceaa11c95d2"
+    "phone_number": "11984088032"
   },
   {
     "resourceType": "AllergyIntolerance",
