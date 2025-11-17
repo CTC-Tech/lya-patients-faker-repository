@@ -1,0 +1,41 @@
+[
+  {
+    "resourceType": "Patient",
+    "metadata_external_id": "68",
+    "birth": "1952-04-04",
+    "document": null,
+    "document_type": null,
+    "name": "Paciente Teste Dados",
+    "phone_number": "46987654321",
+    "weight": null,
+    "height": null,
+    "uuid": "60212214-87f9-444c-8acf-6ceaa11c95d2"
+  },
+  {
+    "resourceType": "AllergyIntolerance",
+    "tag": [
+      "Ibuprofeno",
+      "Reação: Edema de face",
+      "Gravidade: Grave",
+      "Data de início: 2022-06-01"
+    ]
+  },
+  {
+    "resourceType": "Condition",
+    "tag": [
+      "Diagnóstico: Asma moderada persistente",
+      "CID-10: J45.1",
+      "Início dos sintomas: 2024-05-12",
+      "Status clínico: Ativo"
+    ]
+  },
+  {
+    "resourceType": "MedicationStatement",
+    "tag": [
+      "Medicamento: Salbutamol 100 mcg",
+      "Frequência: 2 jatos a cada 6 horas",
+      "Via: Inalatória",
+      "Última administração: 14/11/2025 13:20"
+    ]
+  }
+]
