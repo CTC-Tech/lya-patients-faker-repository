@@ -18,17 +18,17 @@
   {
     "resourceType": "Observation",
     "tag": [
-      "Pressão arterial: 115/112",
-      "SATURAÇÃO (AR AMBIENTE): 98 %",
-      "TEMPERATURA: 38.5 °C",
-      "FREQUÊNCIA CARDÍACA: 143 beats/minute",
-      "FREQUÊNCIA RESPIRATÓRIA: 69 breaths/minute",
-      "GLICEMIA CAPILAR: 11",
-      "PESO: 37 kg",
-      "DOR: 0",
-      "PERFUSAO PERIFERICA: 145",
-      "PRESSÃO ARTERIAL MEDIA: 83",
-      "SATURAÇÃO O²: 95 %"
+      "Pressão Arterial: 102/102",
+      "Pressão Arterial Media: 89",
+      "Saturação (ar Ambiente): 96 %",
+      "Temperatura: 38.5 °c",
+      "Frequência Cardíaca: 145 Bat/min",
+      "Frequência Respiratória: 114 Resp/min",
+      "Saturação O²: 92 %",
+      "Glicemia Capilar: 11",
+      "Peso: 25 Kg",
+      "Dor: 0",
+      "Perfusao Periferica: 155"
     ]
   }
 ]
