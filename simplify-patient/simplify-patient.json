@@ -4,7 +4,7 @@
       "resourceType":"Patient",
       "birth":"1990-05-12",
       "document":"00000000000",
-      "name":"Fulano",
+      "name":"Fulano da Silva",
       "sector":"Fisioterapia",
       "external_sector_id":"FT-100",
       "phone_number":"+5511988884444",
