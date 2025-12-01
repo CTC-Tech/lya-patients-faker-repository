@@ -7,7 +7,8 @@
     "name": "Paciente Integração 1",
     "phone_number": "11984088032",
     "weight": "86",
-    "height": "120"
+    "height": "120",
+    "consultation_code": "20251114-0001"
   },
   {
     "resourceType": "Condition",
