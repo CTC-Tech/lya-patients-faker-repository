@@ -5,7 +5,8 @@
     "birth": "1974-12-25",
     "document": "622.485.810-17",
     "name": "Paciente Integração 2",
-    "consultation_code": "20251114-0002"
+    "consultation_code": "20251114-0002",
+    "consultation_date": "2026-01-10 10:20:35"
   },
   {
     "resourceType": "Procedure",
