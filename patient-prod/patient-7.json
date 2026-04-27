@@ -1,0 +1,22 @@
+[
+  {
+    "resourceType": "Patient",
+    "birth": "1981-09-09",
+    "document": "285.450.988-98",
+    "name": "Teste Centro Cirúrgico",
+    "phone_number": "11984088032",
+    "weight": "60",
+    "height": "180",
+    "consultation_code": "10097454"
+  },
+  {
+    "resourceType": "Dados da cirurgia",
+    "tag": [
+      "Código do aviso: 308666",
+      "Código da cirurgia: 3401",
+      "Descrição: Artrodese de médias / grandes articulações de membro inferior",
+      "Data da cirurgia: 24/04/2026",
+      "Código do atendimento: 10097454"
+    ]
+  }
+]
