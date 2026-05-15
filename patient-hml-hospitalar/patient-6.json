@@ -1,0 +1,34 @@
+[
+  {
+    "resourceType": "Patient",
+    "metadata_external_id": "680900",
+    "birth": "2000-09-09",
+    "document": "622.485.810-17",
+    "name": "Paciente Integração 6",
+    "phone_number": "11984088032",
+    "weight": "37"
+  },
+  {
+    "resourceType": "AllergyIntolerance",
+    "tag": [
+      "FOSFATO SODICO DE PREDNISOLONA",
+      "PREDNISOLONA"
+    ]
+  },
+  {
+    "resourceType": "Observation",
+    "tag": [
+      "Pressão Arterial: 102/102",
+      "Pressão Arterial Media: 89",
+      "Saturação (ar Ambiente): 96 %",
+      "Temperatura: 38.5 °c",
+      "Frequência Cardíaca: 145 Bat/min",
+      "Frequência Respiratória: 114 Resp/min",
+      "Saturação O²: 92 %",
+      "Glicemia Capilar: 11",
+      "Peso: 25 Kg",
+      "Dor: 0",
+      "Perfusao Periferica: 155"
+    ]
+  }
+]

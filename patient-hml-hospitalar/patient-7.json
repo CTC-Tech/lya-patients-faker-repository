@@ -1,0 +1,16 @@
+[
+  {
+    "resourceType": "Patient",
+    "birth": "1991-11-10",
+    "name": "Paciente Teste",
+    "weight": "60",
+    "height": "170"
+  },
+  {
+    "resourceType": "Procedure",
+    "tag": [
+      "04.08.05.014-2 – Tratamento cirúrgico de fratura transtrocanteriana",
+      "Aviso: 12345 data da cirurgia: 25/11/2025."
+    ]
+  }
+]

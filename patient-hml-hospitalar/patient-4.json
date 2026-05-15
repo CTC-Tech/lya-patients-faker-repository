@@ -1,0 +1,37 @@
+[
+  {
+    "resourceType": "Patient",
+    "metadata_external_id": "6",
+    "document": "622.485.810-17",
+    "document_type": "cpf",
+    "name": "Paciente Integração 4",
+    "birth": "1998-04-04"
+  },
+  {
+    "resourceType": "AllergyIntolerance",
+    "tag": [
+      "Látex",
+      "Reação: Prurido e vermelhidão",
+      "Gravidade: Leve",
+      "Data de início: 2020-02-17"
+    ]
+  },
+  {
+    "resourceType": "Condition",
+    "tag": [
+      "Diagnóstico: Asma moderada persistente",
+      "CID-10: J45.1",
+      "Início dos sintomas: 2024-05-12",
+      "Status clínico: Ativo"
+    ]
+  },
+  {
+    "resourceType": "Immunization",
+    "tag": [
+      "Vacina: Influenza trivalente",
+      "Data da aplicação: 2025-04-03",
+      "Lote: FLU-7834",
+      "Status: Administrada"
+    ]
+  }
+]
