@@ -9,26 +9,15 @@
     "weight": "37"
   },
   {
-    "resourceType": "AllergyIntolerance",
+    "resourceType": "Appointment",
     "tag": [
-      "FOSFATO SODICO DE PREDNISOLONA",
-      "PREDNISOLONA"
-    ]
-  },
-  {
-    "resourceType": "Observation",
-    "tag": [
-      "Pressão Arterial: 102/102",
-      "Pressão Arterial Media: 89",
-      "Saturação (ar Ambiente): 96 %",
-      "Temperatura: 38.5 °c",
-      "Frequência Cardíaca: 145 Bat/min",
-      "Frequência Respiratória: 114 Resp/min",
-      "Saturação O²: 92 %",
-      "Glicemia Capilar: 11",
-      "Peso: 25 Kg",
-      "Dor: 0",
-      "Perfusao Periferica: 155"
+      "Código do Aviso: 312497",
+      "Código da Cirurgia: 4024",
+      "Cirurgia: POSTECTOMIA",
+      "Código da Cirurgia: 3496",
+      "Cirurgia: TRATAMENTO CIRURGICO DE OSTEOMIELITE DO CRÂNIO",
+      "Data da Cirurgia: 25/05/2026",
+      "Código do Atendimento: 10171211"
     ]
   }
 ]
