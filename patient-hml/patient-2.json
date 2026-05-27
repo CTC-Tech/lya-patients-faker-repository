@@ -8,12 +8,10 @@
     "consultation_code": "20251114-0001"
   },
   {
-    "resourceType": "Procedure",
+    "resourceType": "CIDs",
     "tag": [
-      "Procedimento: Nebulização com broncodilatador",
-      "Data: 14/11/2025",
-      "Profissional responsável: Enf. Júlia S.",
-      "Duração: 15 minutos"
+      "Cisto sebáceo — L72.1",
+      "Cisto folicular da pele e tecido subcutâneo — L72.0"
     ]
   },
   {
